@@ -1,0 +1,2 @@
+# nodejs_demo
+是一个很小的demo，走了一下使用js完成服务器操作的流程，借助nodejs环境完成http的get和post请求。
